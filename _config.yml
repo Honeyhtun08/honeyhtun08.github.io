@@ -14,7 +14,7 @@ name                     : &name "Honey Htun"
 description              : &description "personal description"
 url                      : https://honeyhtun08.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "honeyhtun08/honeyhtun08.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Honey Htu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Fourth Year Undergraduate Student in Physics with Astrophysics Specialization"
+  location         : "Abu Dhabi, United Arab Emirates"
   employer         : "New York University"
   uri              : # URL
   email            : "hh2784@nyu.edu" 
