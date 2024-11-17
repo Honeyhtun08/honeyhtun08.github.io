@@ -16,7 +16,7 @@ Education
   - Current courses: Electricity and Magnetism, Capstone Project 1, Introduction to Detector Electronics  
   - Senior Thesis: *Appending Virial Star Formation Algorithms to NIHAO Cosmological Simulations*
 
-Work Experience
+Research Projects
 ======
 * **Exoplanet Cloud Modeling**  
   Center for Astrophysics and Space Science, NYU Abu Dhabi, Aug 2024 - Present  
