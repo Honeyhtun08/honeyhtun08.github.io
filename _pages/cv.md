@@ -51,9 +51,9 @@ Skills
 * **Other Tools:** Unity, GitHub, Microsoft Office  
 
 
-</ul>
 
-Talks
+
+Presentations
 ======
 <ul>
   <li>Poster Presentation: *Wolf-Rayet Candidates in Kes75 Region.* APS Conferences for Undergraduate Women in Physics (CUWiP), Jan 2024.</li>
