@@ -13,11 +13,11 @@ Due to the absence of various baryonic processes, Dark Matter Only (DMO) simulat
 
 This work was presented at the APS April Meeting. The paper is currently in preparation. 
 
-[View APS Presentation Slides (PDF)](files/GFG%20Meeting%20presentation.pdf)
+[View APS Presentation Slides (PDF)](/files/GFG%20Meeting%20presentation.pdf)
 
 ---
 
 
-![Final Prediction of Stellar Masses](files/Mfinal.pdf)  
+![Final Prediction of Stellar Masses](/files/Mfinal.pdf)  
 *Figure 1: Final Prediction of Stellar Masses from DMO simulation data.*
 
