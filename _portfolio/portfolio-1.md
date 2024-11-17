@@ -1,6 +1,6 @@
 ---
 title: "Algorithm to Predict Stellar Masses of Satellites from Dark Matter Only Simulations"
-excerpt: "An innovative algorithm that maps stellar masses to satellite halos in Dark Matter Only (DMO) simulations. It reduces computational costs while maintaining consistency with hydrodynamical simulations for luminous satellites.<br/><img src='/images/Mfinal.pdf'>"
+excerpt: "An innovative algorithm that maps stellar masses to satellite halos in Dark Matter Only (DMO) simulations. It reduces computational costs while maintaining consistency with hydrodynamical simulations for luminous satellites.<br/><img src='/files/Mfinal.pdf'>"
 collection: portfolio
 ---
 
