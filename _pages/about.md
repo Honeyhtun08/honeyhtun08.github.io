@@ -1,7 +1,11 @@
 ---
 title: "About"
-permalink: /about/
+permalink: /
 author_profile: true
+excerpt: "About me"
+redirect_from: 
+   - /about/
+   - /about.html
 ---
 
 {% include base_path %}
