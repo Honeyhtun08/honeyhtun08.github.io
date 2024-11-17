@@ -10,7 +10,5 @@ redirect_from:
 
 {% include base_path %}
 
-I am a senior undergraduate student at NYU Abu Dhabi, majoring in Physics with a focus on Astrophysics and a minor in Computer Science. Throughout my undergraduate years, I've worked on computational projects in Cosmological Simulations, High Energy Astrophysics, Planetary Physics.
-
-Learn more about my work on my [CV](/cv/) or reach out through the [Contact](/contact/) page.
+I am a senior undergraduate student at NYU Abu Dhabi, majoring in Physics with a focus on Astrophysics and a minor in Computer Science. Throughout my undergraduate years, I've worked on computational projects in Cosmological Simulations, High Energy Astrophysics, Planetary Physics. You can access my [CV](/cv/) here.
 
