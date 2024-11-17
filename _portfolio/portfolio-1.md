@@ -6,29 +6,10 @@ collection: portfolio
 
 ## Overview
 
-Dark Matter Only (DMO) simulations, while computationally efficient compared to Numerical Hydrodynamical (HYDRO) simulations, cannot directly compare with observational data due to the absence of baryonic processes. This project introduces a predictive algorithm to assign stellar masses to satellites in DMO simulations, bridging the gap for efficient dark matter model testing.
-
-## Problem Statement
-
-The relationship between halo mass and stellar mass is insufficient for nearby satellites due to environmental factors like tidal and ram pressure stripping by the host halo. To address this, the project focuses on stable properties such as 'peak' parameters rather than total halo mass.
-
-## Methodology
-
-1. **Comparative Analysis**: Differences between DMO and HYDRO simulations were analyzed at redshift \( z = 0 \).
-2. **Parameter Selection**: Focused on stable 'peak' parameters to predict stellar masses.
-3. **Algorithm Development**: Designed a map to derive stellar mass functions and radial distributions of luminous satellites.
-4. **Validation**: Predictions from DMO simulations were compared against HYDRO simulations.
-5. **Correction Mechanism**: Addressed overestimations for galaxies with host halo masses around \( \sim 10^{12} M_{\odot} \).
-
-## Results
-
-- The algorithm provides stellar mass functions and radial distributions comparable to HYDRO simulations.
-- Significant cost and complexity reduction for testing dark matter models.
-- Minor corrections ensured accurate predictions for bright halos in large-scale simulations.
-
+Due to the absence of various baryonic processes, Dark Matter Only (DMO) simulations have lower computational and time complexity compared to Numerical Hydrodynamical (HYDRO) simulations, although they cannot be used for comparison with observations for the same reason. A prediction tool to assign stellar masses to dark matter halos of DMO simulations would provide a more efficient testing of new dark matter models. The established relationship between halo mass and stellar mass connection lacks accuracy for nearby satellites due to the environmental influence of the host halo, such as gravitational tidal stripping and ram pressure stripping. This project intends to introduce a simple algorithm to assign stellar populations to nearby satellites in DMO simulations, based on relations reliant on more stable properties than Halo mass. To achieve this, we examine differences between DMO and HYDRO simulations, as well as the dependence of the probability distribution and stellar mass of luminous satellites at z = 0 on a more stable 'peak' parameter. We then obtain distinct relations constructing a straightforward map to obtain stellar mass functions and radial distribution of luminous satellites. We then compare the predictions from DMO simulations with HYDRO simulations. This algorithm's simplicity initially led to an overestimation of bright halos in large simulations, prompting additional corrections for galaxies with host halo masses of ~ 10^12 M⊙ . The final results indicate that the stellar mass functions and radial distributions directly obtained from HYDRO simulations align well with those predicted solely from DMO simulations using our map, offering cost and complexity reduction, facilitating the goal for more efficient testing of dark matter models.
+          
 ---
 
-### Presentation Details
 
 This work was presented at the APS April Meeting. The paper is currently in preparation. 
 
@@ -36,7 +17,6 @@ This work was presented at the APS April Meeting. The paper is currently in prep
 
 ---
 
-### Visual Representation
 
 ![Final Prediction of Stellar Masses](files/Mfinal.pdf)  
 *Figure 1: Final Prediction of Stellar Masses from DMO simulation data.*
