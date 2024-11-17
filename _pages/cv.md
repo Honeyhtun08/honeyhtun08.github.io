@@ -10,12 +10,9 @@ redirect_from:
 
 Education
 ======
-* **B.Sc in Physics with Astrophysics, Minor in Computer Science**  
+* **B.Sc in Physics with Astrophysics**  
   New York University Abu Dhabi, Sep 2021 - May 2025  
-  - Junior Spring Study Away at NYU New York  
-  - Current courses: Electricity and Magnetism, Capstone Project 1, Introduction to Detector Electronics  
-  - Senior Thesis: *Appending Virial Star Formation Algorithms to NIHAO Cosmological Simulations*
-
+  
 Research Projects
 ======
 * **Exoplanet Cloud Modeling**  
