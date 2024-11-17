@@ -21,7 +21,7 @@ repository               : "honeyhtun08/honeyhtun08.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.heic"
+  avatar           : "profile.png"
   name             : "Honey Htun"
   pronouns         : # example: "she/her"  
   bio              : "Fourth Year Undergraduate Student in Physics with Astrophysics Specialization"
