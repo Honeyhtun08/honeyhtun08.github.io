@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Honey Htun/ Undergraduate Physics Student"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Honey Htun"
 description              : &description "personal description"
