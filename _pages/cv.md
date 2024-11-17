@@ -50,12 +50,7 @@ Skills
 * **Communication:** English (bilingual), Burmese (native)  
 * **Other Tools:** Unity, GitHub, Microsoft Office  
 
-Publications
-======
-<ul>
-  <li>Htun, H., Gelfand, J., AbdelMaguid, M., Alford, J. *Wolf-Rayet candidates in the vicinity of Kes 75 PWN complex.* To be submitted to ApJ in December 2024.</li>
-  <li>Maccio, A., Htun, H., Huterer-Prats, D., Buck, T. *Algorithm to Predict Stellar Masses of Satellites in Dark Matter Only Simulations.* In preparation.</li>
-  <li>Blecic, J., Baker, A., Marley, M., Dobbs-Dixon, I., Cubillos, P., Htun, H. *Dynamic and Adaptable Open-source Mie-Scattering Thermal Stability Cloud Model for Forward and Retrieval Modeling.* In preparation.</li>
+
 </ul>
 
 Talks
@@ -65,7 +60,7 @@ Talks
   <li>Conference Presentation: *Stellar Mass Prediction Algorithm for Low-Mass Dark Matter Satellites.* American Physical Society April Meeting, Apr 2024.</li>
 </ul>
 
-Teaching
+Outreach
 ======
 <ul>
   <li>Astronomy Student Interest Group, NYU Abu Dhabi  
@@ -79,9 +74,6 @@ Projects and Presentations
 * **Planety**  
   Developed a VR game in Unity (C#) simulating a Martian environment, Dec 2022.  
 
-Service and Leadership
-======
-* Co-founder & Head of Outreach, Astronomy Student Interest Group, NYU Abu Dhabi  
 
 Honors
 ======
