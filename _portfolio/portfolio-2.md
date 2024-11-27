@@ -18,8 +18,14 @@ focusing on carbon-rich stars, the presence of at least one source was observed 
 and only 10% was within the distance of our final candidate from Kes 75 region.
 
 
+---
+
 This work was presented at APS CUWiP 2024 and the paper is currently in preparation expected to be submitted in December, 2024.
 
 [View APS Cuwip Poster (PDF)](/files/KES75_post.pdf)
 
+---
+
           
+![Final Prediction of Stellar Masses](/files/Aug_24_tvsl.png)
+*Figure 1: Temperature vs Luminosity Profile of Final Nitrogen-Rich star candidate*
