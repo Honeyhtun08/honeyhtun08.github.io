@@ -66,7 +66,7 @@ Outreach
   - Taught an introductory seminar on Astrobiology and Exoplanets to Japanese high school students.</li>
 </ul>
 
-Projects and Presentations
+Projects 
 ======
 * **Planety**  
   Developed a VR game in Unity (C#) simulating a Martian environment, Dec 2022.  
@@ -75,6 +75,5 @@ Projects and Presentations
 Honors
 ======
 * DOE-INFN Exchange Research Fellowship  
-* Undergraduate Summer Research Grant  
-* Travel Grants to Conferences  
+* Undergraduate Summer Research Grant   
 * Whole Country Second in National Matriculation Exam  
