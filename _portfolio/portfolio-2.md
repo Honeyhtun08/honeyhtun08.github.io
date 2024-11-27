@@ -1,5 +1,5 @@
 ---
-title: "Search for a potential Wolf-Rayet star in the vicinity of Kes 75 Pulsar Wind Nebula"
+title: "WR candidates in the vicinity of Kes 75 PWN"
 excerpt: " Follow up analysis on the possible existence of a Wolf-Rayet star embedded in the Kes 75 PWN inferred from SED modeling of the region after addition of high energy Gamma Ray data <br/><img src = '/files/Aug_24_tvsl.png'> "
 collection: portfolio
 ---
