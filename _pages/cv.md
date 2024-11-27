@@ -54,7 +54,7 @@ Presentations
 ======
 <ul>
   <li>Poster Presentation: <em>Wolf-Rayet Candidates in Kes75 Region</em>. APS Conferences for Undergraduate Women in Physics (CUWiP), Jan 2024.</li>
-  <li>Conference Presentation: <em>Stellar Mass Prediction Algorithm for Low-Mass Dark Matter Satellites.</em> American Physical Society April Meeting, Apr 2024.</li>
+  <li>Conference Presentation: <em>Stellar Mass Prediction Algorithm for Low-Mass Satellites using DMO Simulation data.</em> American Physical Society April Meeting, Apr 2024.</li>
 </ul>
 
 Outreach
