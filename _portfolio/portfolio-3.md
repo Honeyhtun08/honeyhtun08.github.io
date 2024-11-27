@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Methods on Fermi-LAT images"
-excerpt: "Using Clustering ML algorithms to identify spacial and temporal clusters in High Energy Sky. <br/> <img src = '/files/Fermi.png'>"
+excerpt: "Using DBSCAN (a Machine Learning Clustering algorithm) to identify spatial and temporal clusters in Gamma-Ray High Energy Sky. <br/> <img src = '/files/Fermi.png'>"
 collection: portfolio
 ---
 
