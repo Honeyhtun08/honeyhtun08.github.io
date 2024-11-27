@@ -18,6 +18,6 @@ This work was presented at the APS April Meeting. The paper is currently in prep
 ---
 
 
-![Final Prediction of Stellar Masses](/files/Mfinal.pdf)  
+![Final Prediction of Stellar Masses](/files/Mfinal.png)  
 *Figure 1: Final Prediction of Stellar Masses from DMO simulation data.*
 
