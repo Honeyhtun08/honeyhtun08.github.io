@@ -45,7 +45,7 @@ Research Projects
 
 Skills
 ======
-* **Programming Languages:** Python, C, C++, Git, C#, LATEX, Matlab  
+* **Programming Languages:** Python, C, C++, Git, C#, LATEX, Matlab, HTML
 * **Communication:** English (bilingual), Burmese (native)  
 * **Other Tools:** Unity, GitHub, Microsoft Office  
 
