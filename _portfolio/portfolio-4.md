@@ -1,5 +1,5 @@
 ---
-title: "Appending Virial Star Formation Algorithms in NIHAO Cosmological Simulations"
+title: "New Star Formation Algorithms in NIHAO"
 excerpt: " Updating the star formation mechanism in NIHAO using algorithms based on the Virial Theorem "
 collection: portfolio
 ---
