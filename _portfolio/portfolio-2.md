@@ -28,4 +28,4 @@ This work was presented at APS CUWiP 2024 and the paper is currently in preparat
 
           
 ![Final Prediction of Stellar Masses](/files/Aug_24_tvsl.png)
-*Figure 1: Temperature vs Luminosity Profile of Final Nitrogen-Rich star candidate*
+*Figure 1: Temperature vs Luminosity Profile of Final Nitrogen-Rich WR star candidate compared to literature WR stars*
