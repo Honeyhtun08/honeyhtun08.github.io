@@ -11,13 +11,13 @@ Fermi-LAT gamma ray telescope covers energy range from 20MeV up until 300 GeV an
 
 
 
-[View Final Presentation Slides (PDF)](/files/GFG%20Meeting%20presentation.pdf)
+[View Final Presentation Slides (PDF)](/files/Fermi%Summer%work.pdf)
 
 ---
 
 
-![Final Prediction of Stellar Masses](/files/Mfinal.pdf)  
-*Figure 1: Final Prediction of Stellar Masses from DMO simulation data.*
+![Final Prediction of Stellar Masses](/files/Fermi.png)  
+*Identified Photon Clusters vs Average Energy inside the Clusters.*
 
 
 
