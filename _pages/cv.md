@@ -11,7 +11,9 @@ redirect_from:
 Education
 ======
 * **B.Sc in Physics with Astrophysics**  
-  New York University Abu Dhabi, Sep 2021 - May 2025  
+  New York University Abu Dhabi, Sep 2021 - May 2025
+
+
   
 Research Projects
 ======
@@ -75,5 +77,5 @@ Projects
 Honors
 ======
 * DOE-INFN Exchange Research Fellowship  
-* Undergraduate Summer Research Grant   
+* Undergraduate Summer Research Grants  
 * Whole Country Second in National Matriculation Exam  
