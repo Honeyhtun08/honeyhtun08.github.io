@@ -4,6 +4,8 @@ excerpt: " analysis on the possible existence of a Wolf-Rayet star embedded in t
 collection: portfolio
 ---
 
+##Overview
+
 We report a follow up analysis on the possible existence of a Wolf-Rayet star embedded in the Kes 75 PWN followed by the Sepctral Energy Distribution (SED) modeling of the  high energy Gamma-ray emission of this region.
 An additional secondary photon field was required to account for the GeV emission measured from a Gamma ray point source in the area. The translated stellar properties of the said photon field is comparable to that of Wolf-Rayet(WR) 
 stars as established in literature. To identify the proposed WR star, we analyzed the source population within 1 arcmin of Kes 75 center using their Near Infrared Magnitude values using UKIDSS Galactic Plane Survey. Subsequent
@@ -15,6 +17,8 @@ statistically insignificant as they returned total final candidates more than th
 focusing on carbon-rich stars, the presence of at least one source was observed in only about 12% of the instances 
 and only 10% was within the distance of our final candidate from Kes 75 region.
 
-[View APS Cuwip Poster (PDF)](/files/GFG%20Meeting%20presentation.pdf)
+This work was presented at APS CUWiP 2024 and the paper is currently in preparation expected to be submitted in December, 2024.
+
+[View APS Cuwip Poster (PDF)](/files/KES75_post.pdf)
 
           
