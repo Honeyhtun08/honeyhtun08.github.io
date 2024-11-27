@@ -1,5 +1,5 @@
 ---
-title: "Algorithm to Predict Stellar Masses of Satellites from Dark Matter Only Simulations"
+title: "Stellar Mass Prediction Algorithm"
 excerpt: " Algorithm to assign stellar masses to satellite halos in Dark Matter Only (DMO) simulations. It reduces computational costs while maintaining significant consistency with hydrodynamical simulations for luminous satellites.<br/><img src='/files/Mfinal.png'>"
 collection: portfolio
 ---
