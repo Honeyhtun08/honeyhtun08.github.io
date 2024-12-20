@@ -10,7 +10,6 @@ redirect_from:
 
 # Selected Portfolio
 
-Welcome to my collection of paintings! This page showcases my creative journey and exploration through various styles, mediums, and inspirations.
 
 ## Featured Works
 
