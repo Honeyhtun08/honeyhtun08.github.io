@@ -215,6 +215,8 @@ collections:
   art:
     output: true
     permalink: /:collection/:path/
+    title: "Art"
+    url: /art/
  # publications:
  #   output: true
  #   permalink: /:collection/:path/
