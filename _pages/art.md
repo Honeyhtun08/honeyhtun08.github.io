@@ -1,5 +1,5 @@
 ---
-title: "Art Projects"
+title: "Art"
 permalink: /art/
 author_profile: true
 redirect_from:
