@@ -7,13 +7,13 @@
 main:
 
    
-  - title: "Art"
-    url: /art/
+#  - title: "Art"
+#    url: /art/
 
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Publications"
+  - title: "Art"
     url: /publications/    
     
   - title: "Research Portfolio"
