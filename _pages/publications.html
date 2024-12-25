@@ -10,39 +10,71 @@ author_profile: true
 <section id="portfolio">
   <h1>Selected Portfolio</h1>
 
-  <div>
-    <h2>Ethereal Dreams</h2>
-    <img src="" alt="Ethereal Dreams">
-    <p><em>Acrylic on canvas, 2023.</em></p>
-  </div>
+  <style>
+    .portfolio-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+    }
 
-  <div>
-    <h2>Fragmented Light</h2>
-    <img src="/paintings/painting1.png" alt="Fragmented Light">
-    <p><em>Oil on board, 2024.</em></p>
-  </div>
+    .portfolio-item {
+      text-align: center;
+    }
 
-  <div>
-    <h2>Golden Horizon</h2>
-    <img src="/paintings/painting2.png" alt="Golden Horizon">
-    <p><em>Watercolor, 2023.</em></p>
-  </div>
+    .portfolio-item img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 5px;
+    }
 
-  <div>
-    <h2>Serene Shores</h2>
-    <img src="/paintings/painting3.png" alt="Serene Shores">
-    <p><em>Gouache on paper, 2024.</em></p>
-  </div>
+    .portfolio-item h2 {
+      font-size: 1.2em;
+      margin: 10px 0 5px;
+    }
 
-  <div>
-    <h2>Whispers of Time</h2>
-    <img src="/paintings/painting4.png" alt="Whispers of Time">
-    <p><em>Charcoal and pastel, 2023.</em></p>
-  </div>
+    .portfolio-item p {
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
 
-  <div>
-    <h2>Reflection</h2>
-    <img src="/paintings/painting5.png" alt="Reflection">
-    <p><em>Mixed media, 2024.</em></p>
+  <div class="portfolio-grid">
+    <div class="portfolio-item">
+      <h2>Ethereal Dreams</h2>
+      <img src="" alt="Ethereal Dreams">
+      <p><em>Acrylic on canvas, 2023.</em></p>
+    </div>
+
+    <div class="portfolio-item">
+      <h2>Fragmented Light</h2>
+      <img src="/paintings/painting1.png" alt="Fragmented Light">
+      <p><em>Oil on board, 2024.</em></p>
+    </div>
+
+    <div class="portfolio-item">
+      <h2>Golden Horizon</h2>
+      <img src="/paintings/painting2.png" alt="Golden Horizon">
+      <p><em>Watercolor, 2023.</em></p>
+    </div>
+
+    <div class="portfolio-item">
+      <h2>Serene Shores</h2>
+      <img src="/paintings/painting3.png" alt="Serene Shores">
+      <p><em>Gouache on paper, 2024.</em></p>
+    </div>
+
+    <div class="portfolio-item">
+      <h2>Whispers of Time</h2>
+      <img src="/paintings/painting4.png" alt="Whispers of Time">
+      <p><em>Charcoal and pastel, 2023.</em></p>
+    </div>
+
+    <div class="portfolio-item">
+      <h2>Reflection</h2>
+      <img src="/paintings/painting5.png" alt="Reflection">
+      <p><em>Mixed media, 2024.</em></p>
+    </div>
   </div>
 </section>
