@@ -13,8 +13,7 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Art"
-    url: /publications/    
+
     
   - title: "Research Portfolio"
     url: /portfolio/
@@ -24,6 +23,8 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Art"
+    url: /publications/    
 #  - title: "Guide"
 #    url: /markdown/
