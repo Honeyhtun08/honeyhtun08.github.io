@@ -26,6 +26,12 @@ author_profile: true
       border: 1px solid #ddd;
       border-radius: 8px;
       padding: 5px;
+      cursor: pointer;
+      transition: transform 0.2s ease-in-out;
+    }
+
+    .portfolio-item img:hover {
+      transform: scale(1.05);
     }
 
     .portfolio-item h2 {
@@ -37,40 +43,75 @@ author_profile: true
       font-size: 0.9em;
       color: #555;
     }
+
+    /* Lightbox styling */
+    .lightbox {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.8);
+      align-items: center;
+      justify-content: center;
+    }
+
+    .lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+      border-radius: 8px;
+    }
+
+    .lightbox:target {
+      display: flex;
+    }
   </style>
 
-  <div class="portfolio-grid">
+  <!-- Lightbox div -->
+  <div id="lightbox" class="lightbox" onclick="this.style.display='none'">
+    <img id="lightbox-img" src="" alt="">
+  </div>
 
+  <div class="portfolio-grid">
     <div class="portfolio-item">
       <h2>Melancholy in Bloom</h2>
-      <img src="/paintings/painting1.png" alt="Fragmented Light">
+      <img src="/paintings/painting1.png" alt="Fragmented Light" onclick="openLightbox(this)">
       <p><em>Watercolor, 2024.</em></p>
     </div>
 
-   
-
     <div class="portfolio-item">
       <h2>Maxwell’s Flowers</h2>
-      <img src="/paintings/painting3.png" alt="Serene Shores">
+      <img src="/paintings/painting3.png" alt="Serene Shores" onclick="openLightbox(this)">
       <p><em>Acrylic on Canvas, 2024.</em></p>
     </div>
 
     <div class="portfolio-item">
       <h2>Never Before</h2>
-      <img src="/paintings/painting4.png" alt="Whispers of Time">
+      <img src="/paintings/painting4.png" alt="Whispers of Time" onclick="openLightbox(this)">
       <p><em>Acrylic on Canvas, 2023.</em></p>
     </div>
 
     <div class="portfolio-item">
-      <h2> Never Since</h2>
-      <img src="/paintings/painting5.png" alt="Reflection">
+      <h2>Never Since</h2>
+      <img src="/paintings/painting5.png" alt="Reflection" onclick="openLightbox(this)">
       <p><em>Mixed media, 2024.</em></p>
     </div>
 
     <div class="portfolio-item">
-      <h2> Collaging Life</h2>
-      <img src="/paintings/painting7.png" alt="Reflection">
+      <h2>Collaging Life</h2>
+      <img src="/paintings/painting7.png" alt="Reflection" onclick="openLightbox(this)">
       <p><em>Acrylic on Canvas, 2024.</em></p>
     </div>
   </div>
+
+  <script>
+    function openLightbox(imgElement) {
+      const lightbox = document.getElementById('lightbox');
+      const lightboxImg = document.getElementById('lightbox-img');
+      lightboxImg.src = imgElement.src;
+      lightbox.style.display = 'flex';
+    }
+  </script>
 </section>
