@@ -1,36 +1,76 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art</title>
+</head>
+<body>
+    <header>
+        <h1>Art</h1>
+        <p>Author Profile: True</p>
+        <p>Redirect From: <a href="/art">/art</a></p>
+    </header>
+    
+    <main>
+        <section id="portfolio">
+            <h2>Selected Portfolio</h2>
+            
+            <section id="featured-works">
+                <h3>Featured Works</h3>
+                
+                <section id="abstract-pieces">
+                    <h4>Abstract Pieces</h4>
+                    <ul>
+                        <li>
+                            <strong>Ethereal Dreams</strong><br>
+                            <img src="" alt="Ethereal Dreams"><br>
+                            Acrylic on canvas, 2023.
+                        </li>
+                        <li>
+                            <strong>Fragmented Light</strong><br>
+                            <img src="paintings/painting1.png" alt="Fragmented Light"><br>
+                            Oil on board, 2024.
+                        </li>
+                    </ul>
+                </section>
+                
+                <section id="landscapes">
+                    <h4>Landscapes</h4>
+                    <ul>
+                        <li>
+                            <strong>Golden Horizon</strong><br>
+                            <img src="paintings/painting2.png" alt="Golden Horizon"><br>
+                            Watercolor, 2023.
+                        </li>
+                        <li>
+                            <strong>Serene Shores</strong><br>
+                            <img src="paintings/painting3.png" alt="Serene Shores"><br>
+                            Gouache on paper, 2024.
+                        </li>
+                    </ul>
+                </section>
+                
+                <section id="portraits">
+                    <h4>Portraits</h4>
+                    <ul>
+                        <li>
+                            <strong>Whispers of Time</strong><br>
+                            <img src="paintings/painting4.png" alt="Whispers of Time"><br>
+                            Charcoal and pastel, 2023.
+                        </li>
+                        <li>
+                            <strong>Reflection</strong><br>
+                            <img src="paintings/painting5.png" alt="Reflection"><br>
+                            Mixed media, 2024.
+                        </li>
+                    </ul>
+                </section>
+            </section>
+        </section>
+    </main>
+</body>
+</html>
 
 
 
