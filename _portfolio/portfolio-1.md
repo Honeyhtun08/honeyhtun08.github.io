@@ -1,6 +1,6 @@
 ---
 title: "Stellar Mass Prediction Algorithm"
-excerpt: " Algorithm to assign stellar masses to satellite halos in Dark Matter Only (DMO) simulations. It reduces computational costs while maintaining significant consistency with hydrodynamical simulations for luminous satellites.<br/><img src='/files/Mfinal.png'>"
+excerpt: " My first research project, I worked with Prof. Andrea Macciò to develop a straightforward tool to assign stellar masses to satellite halos in Dark Matter Only (DMO) simulations. The goal is to reduce computational costs while maintaining significant consistency with hydrodynamical simulations for luminous satellites and make the testing of new Dark Matter Models more efficient.<br/><img src='/files/Mfinal.png'>"
 collection: portfolio
 ---
 
