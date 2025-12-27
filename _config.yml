@@ -218,7 +218,7 @@ collections:
     title: "Art"
     url: /art/
   publications:
-   output: true
+   output: false
    permalink: /:collection/:path/
   portfolio:
     output: true
