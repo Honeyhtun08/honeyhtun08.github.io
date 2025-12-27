@@ -213,7 +213,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   art:
-    output: true
+    output: false
     permalink: /:collection/:path/
     title: "Art"
     url: /art/
